@@ -365,17 +365,6 @@ const App = () => {
                 >
                   <LeetCodeIcon /> LeetCode
                 </motion.a>
-                <motion.a
-                  href="https://drive.google.com/file/d/11SyVfoOTIuAw9CumV3H_P309oX-kJQ-C/view?usp=drivesdk"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="px-4 py-2 font-semibold border-2 border-black bg-white text-black shadow-sketch transition-all duration-300 flex items-center gap-2 text-sm md:text-base rounded-md"
-                  whileHover="hover"
-                  whileTap="tap"
-                  variants={buttonVariants}
-                >
-                  <DownloadIcon /> Download Resume
-                </motion.a>
               </div>
             </motion.div>
           </motion.section>
