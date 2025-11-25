@@ -471,8 +471,6 @@ const App = () => {
     <ProjectCard
       title="E-Commerce Sales Analytics Dashboard"
       description="Interactive Power BI dashboard analyzing Q1–Q4 sales, pricing trends & KPIs using Power Query and advanced visuals."
-      githubLink=""  
-      liveLink=""
     />
 
     <ProjectCard
