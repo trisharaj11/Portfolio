@@ -40,5 +40,3 @@ The website showcases my education, skills, projects, internships, and achieveme
 - Achievements
 - Contact
 
-cd Portfolio
-
