@@ -473,17 +473,33 @@ const App = () => {
 </Section>
 
 
-          {/* Experience Section */}
-          <Section title="Experience" id="experience">
-            <div className="relative pl-6 md:pl-8 lg:pl-12">
-              <div className="timeline-line"></div>
-              <TimelineItem
-                title="IT Trainee – Digital Literacy Program"
-                period="DDU-GKY, 2025"
-                description="Conducted training sessions for rural youth on digital literacy (MS Office, internet, online safety). Improved communication and teaching skills."
-              />
-            </div>
-          </Section>
+        {/* Experience Section */}
+  <Section title="Experience" id="experience">
+  <div className="relative pl-6 md:pl-8 lg:pl-12">
+
+    <div className="timeline-line"></div>
+
+    <TimelineItem
+      title="Operations Associate Intern – ProPeers"
+      period="Dec 2025 – Present | Remote"
+      description="Supported daily operations by tracking onboarding, mentor availability, and session scheduling. Monitored operational metrics and identified recurring issues to improve workflow efficiency."
+    />
+
+    <TimelineItem
+      title="Data Analytics Intern – Amiga Informatics Pvt. Ltd."
+      period="Dec 2025 – Jan 2026 | Patna"
+      description="Worked on data analysis and data management to support portal operations and reporting. Assisted in validating and organizing datasets to derive basic operational insights."
+    />
+
+    <TimelineItem
+      title="IT Trainee – Digital Literacy Program"
+      period="DDU-GKY, 2025"
+      description="Conducted training sessions for rural youth on digital literacy (MS Office, internet, online safety). Improved communication and teaching skills."
+    />
+
+  </div>
+</Section>
+
 
           {/* Achievements Section */}
           <Section title="Achievements" id="achievements">
