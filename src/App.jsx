@@ -276,7 +276,7 @@ const App = () => {
         <header className="w-full flex justify-end items-center mb-12">
           <nav>
             <ul className="flex flex-wrap justify-center gap-4 text-sm md:text-base font-bold uppercase">
-              {['education', 'skills', 'projects', 'contact'].map((section) => (
+              {['education', 'skills', 'projects', 'experience', 'achievements', 'contact'].map((section) => (
                 <a
                   key={section}
                   href={`#${section}`}
